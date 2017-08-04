@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>VeeamAgentforWindows</id>
+    <version>2.0.0.700</version>
+	<title>Veeam Agent for Microsoft Windows</title>
+    <authors>Veeam</authors>
+    <owners>jerome.c</owners>
+	<licenseUrl>https://www.veeam.com/eula.html?ad=endpoint</licenseUrl>
+    <projectUrl>https://www.veeam.com/windows-cloud-server-backup-agent.html</projectUrl>
+    <tags>veeam agent backup admin</tags>
+    <summary>Veeam Agent for Microsoft Windows is built on the extremely successful Veeam Endpoint Backup™ FREE.</summary>
+    <description>Veeam Agent for Microsoft Windows is built on the extremely successful Veeam Endpoint Backup™ FREE and includes two brand new editions — Workstation and Server — with additional features designed to ensure the Availability of your Windows workloads by providing backup and recovery for physical and cloud-based workloads, as well as endpoint devices that belong to remote users.</description>
+    <packageSourceUrl>https://github.com/jeromecr/chocolatey-VeeamAgentforWindows</packageSourceUrl>
+	</metadata>
+</package>
